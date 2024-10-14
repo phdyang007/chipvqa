@@ -1,0 +1,1 @@
+{"questionID":5,"image":"PhysicalQ5.png","question":"Which letter in the layout diagram describes a minimum width DRC rule?","options":["a","b","c","d"],"questionType":"multiChoice","image_type":"layout","ans":"A","subject":"physical","gpt4o":"A","llava:7b":" A ","llava:13b":" B","llava:34b":"A","llava-llama3:latest":"A"}
